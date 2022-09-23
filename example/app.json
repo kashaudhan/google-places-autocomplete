@@ -1,0 +1,23 @@
+{
+  "name": "google-places-autocomplete-example",
+  "displayName": "GooglePlacesAutocomplete Example",
+  "expo": {
+    "name": "google-places-autocomplete-example",
+    "slug": "google-places-autocomplete-example",
+    "description": "Example app for google-places-autocomplete",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
